@@ -1,3 +1,5 @@
 # localizacao_map
 Aplicativo para uso das API's do Google Maps
-![print app](https://user-images.githubusercontent.com/37937945/125706918-8717307a-a537-4ab8-9d27-c7b127e9e2fe.jpeg)
+
+![Screenshot_1](https://user-images.githubusercontent.com/37937945/125710603-a37fe556-6e97-4aba-b7ef-bc7e6217b5f3.png)
+
