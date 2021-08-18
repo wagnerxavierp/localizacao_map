@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:localizacao_map/views/home_page.dart';
+import 'package:points_map/views/home_page.dart';
 
 void main() {
   runApp(MyApp());
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Geolocate',
       theme: ThemeData(
-        primarySwatch: Colors.blueGrey,
+        primarySwatch: Colors.purple,
       ),
       home: HomePage(title: 'Localização - Google Map'),
     );

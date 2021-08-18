@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:localizacao_map/models/adress_model.dart';
-import 'package:localizacao_map/.env.dart';
+import 'package:points_map/models/adress_model.dart';
+import 'package:points_map/.env.dart';
 
 class AdressRepository{
   static const String _baseUrl =

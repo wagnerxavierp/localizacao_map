@@ -1,4 +1,4 @@
-package com.example.localizacao_map
+package com.xavier.points_map
 
 import io.flutter.embedding.android.FlutterActivity
 
