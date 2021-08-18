@@ -1,16 +1,14 @@
-# localizacao_map
+# API Google Maps
 
-A new Flutter project.
+Aplicativo em Flutter para utilização das API's do Google Maps.
 
-## Getting Started
+Substitua "YOUR API KEY" com a sua chave de api, nos seguintes arquivos:
+  - android/app/src/main/AndroidManifest.xml
+  - ios/Runner/AppDelegate.swift
+  - lib/.env.dart
 
-This project is a starting point for a Flutter application.
+![Screenshot_20210818-114408](https://user-images.githubusercontent.com/37937945/129923889-97745463-a278-4638-90fb-7ee9445fd8ec.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20210818-114817](https://user-images.githubusercontent.com/37937945/129923935-9d5203e0-51be-4663-b601-174c07c67a4f.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20210818-114925](https://user-images.githubusercontent.com/37937945/129923956-604153e4-a8b3-4d1f-b386-36bb57c8babf.png)
